@@ -1,6 +1,6 @@
 {
   "version": "1.1.0",
-  "url": "https://github.com/YOURNAME/BroadcastOS/releases/download/v1.1.0/BroadcastOS-1.1.0-setup.exe",
+  "url": "https://github.com/landisTEMPR/BroadcastOS/releases/download/v1.1.0/BroadcastOS-1.1.0-setup.exe",
   "sha256": "1269cf780625f155bd7076ef6838fd4406f0dd5cd2e0b782b023c5cde1458585",
   "notes": "What changed in this build.",
   "minimum": "1.0.0"
