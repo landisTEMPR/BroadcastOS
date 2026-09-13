@@ -1,7 +1,7 @@
 {
   "version": "1.1.0",
   "url": "https://github.com/landisTEMPR/BroadcastOS/releases/download/v1.1.0/BroadcastOS-1.1.0-setup.exe",
-  "sha256": "1269cf780625f155bd7076ef6838fd4406f0dd5cd2e0b782b023c5cde1458585",
+  "sha256": "4b2ac66e9e23c28d961c3d4703d0084b423bc8d68184bfe71b0f70813a184db4",
   "notes": "What changed in this build.",
   "minimum": "1.0.0"
 }
